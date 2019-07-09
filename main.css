@@ -19,7 +19,8 @@ body {
 } */
 
 .logo {
-    background-color: #FFAA00;
+    /* background-color: #FFAA00; */
+    background-color: aquamarine;
     /* margin: -20px 0; */
     min-height: 100px;
 }
