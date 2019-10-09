@@ -521,3 +521,7 @@ select {
 .cursor.active {
     opacity: 1;
 }
+
+textarea {
+    width: 300px;
+}
